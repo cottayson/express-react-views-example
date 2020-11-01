@@ -1,4 +1,4 @@
-# Example of usage express-react-views
+# Example of usage [express-react-views](https://github.com/reactjs/express-react-views)
 
 ## Requirements:
 * [`@babel-register`](https://babeljs.io/docs/en/babel-register/)
